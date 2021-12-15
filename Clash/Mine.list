@@ -2,3 +2,4 @@
 DOMAIN-KEYWORD,es.huobipool.com
 DOMAIN-KEYWORD,en.huobipool.com
 DOMAIN-KEYWORD,ethermine
+IP-CIDR,172.65.231.156/32,no-resolve
