@@ -1,5 +1,5 @@
 # Bt
-SRC-IP-CIDR,192.168.5.139/32,no-resolve
+
 DOMAIN-KEYWORD,tracker.opentrackr.org
 DOMAIN-KEYWORD,tracker.coppersurfer.tk
 DOMAIN-KEYWORD,9.rarbg.to
@@ -10,3 +10,4 @@ DOMAIN-KEYWORD,explodie.org:6969
 DOMAIN-KEYWORD,tracker1.itzmx.com
 DOMAIN-KEYWORD,tracker.tiny-vps.com
 DOMAIN-KEYWORD,open.stealth.si
+SRC-IP-CIDR,192.168.5.139/32,no-resolve
