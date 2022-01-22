@@ -1,0 +1,4 @@
+# 游戏加速
+DOMAIN,hypixel.net
+DOMAIN-SUFFIX,hypixel.net
+IP-CIDR,114.51.41.91/32,no-resolve
