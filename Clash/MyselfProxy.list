@@ -9,7 +9,7 @@ DOMAIN-KEYWORD,themoviedb
 DOMAIN-KEYWORD,feeds
 DOMAIN-KEYWORD,mikanani
 DOMAIN-KEYWORD,ccbv
-DOMAIN-KEYWORD,tm.frankey.club
+DOMAIN,tm.frankey.club
 DOMAIN-KEYWORD,itzmx.com
 DOMAIN-KEYWORD,pilipili
 DOMAIN-KEYWORD,52doge
@@ -20,6 +20,12 @@ DOMAIN-SUFFIX,duyaoss.com
 DOMAIN-KEYWORD,mzone
 DOMAIN,nexusmods.com
 DOMAIN-SUFFIX,nexusmods.com
+DOMAIN,hacg.cat
+DOMAIN-SUFFIX,hacg.cat
+DOMAIN,hacg.me
+DOMAIN-SUFFIX,hacg.me
+DOMAIN,reimu.net
+DOMAIN-SUFFIX,reimu.net
 IP-CIDR,47.241.122.196/32,no-resolve
 IP-CIDR,147.139.180.89/16,no-resolve
 IP-CIDR,149.129.255.40/16,no-resolve
