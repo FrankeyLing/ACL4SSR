@@ -26,6 +26,8 @@ DOMAIN,hacg.me
 DOMAIN-SUFFIX,hacg.me
 DOMAIN,reimu.net
 DOMAIN-SUFFIX,reimu.net
+DOMAIN,rarbgmirror.com
+DOMAIN-SUFFIX,rarbgmirror.com
 IP-CIDR,47.241.122.196/32,no-resolve
 IP-CIDR,147.139.180.89/16,no-resolve
 IP-CIDR,149.129.255.40/16,no-resolve
