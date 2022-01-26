@@ -11,6 +11,12 @@ DOMAIN-SUFFIX,xn--mesr8b36x.com
 # 大机场
 DOMAIN,xn--mesr8b36x.net
 DOMAIN-SUFFIX,xn--mesr8b36x.net
+# 小机场
+DOMAIN,xn--mes55iczl.com
+DOMAIN-SUFFIX,xn--mes55iczl.com
+# 小机场
+DOMAIN,xn--mes55iczl.net
+DOMAIN-SUFFIX,xn--mes55iczl.net
 #可莉
 DOMAIN,kle.jp
 DOMAIN-SUFFIX,kle.jp
