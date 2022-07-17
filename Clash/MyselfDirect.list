@@ -19,3 +19,4 @@ DOMAIN-SUFFIX,dnsflix.com
 DOMAIN-SUFFIX,onlineto.xyz
 IP-CIDR,13.250.41.0/24,no-resolve
 IP-CIDR,18.141.180.0/24,no-resolve
+IP-CIDR,20.247.122.0/24,no-resolve
