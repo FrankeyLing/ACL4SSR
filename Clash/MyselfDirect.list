@@ -17,3 +17,4 @@ DOMAIN-SUFFIX,ryzen.cyou
 DOMAIN-SUFFIX,proconcn.xyz
 DOMAIN-SUFFIX,dnsflix.com
 DOMAIN-SUFFIX,onlineto.xyz
+IP-CIDR,13.250.41.0/24,no-resolve
