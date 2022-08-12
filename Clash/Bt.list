@@ -11,3 +11,4 @@ DOMAIN-KEYWORD,tracker1.itzmx.com
 DOMAIN-KEYWORD,tracker.tiny-vps.com
 DOMAIN-KEYWORD,open.stealth.si
 SRC-IP-CIDR,192.168.5.139/32,no-resolve
+SRC-PORT,25468
