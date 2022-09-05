@@ -27,3 +27,8 @@ IP-CIDR,20.239.185.0/24,no-resolve
 IP-CIDR,20.205.14.10/24,no-resolve
 DOMAIN-KEYWORD,kl.hinetwork.tw
 DOMAIN-SUFFIX,local.host
+DOMAIN-KEYWORD,vr.frankey.me
+DOMAIN-KEYWORD,local.frankey.me
+DOMAIN-KEYWORD,openwrt.frankey.me
+DOMAIN-KEYWORD,yacd.frankey.me
+DOMAIN-KEYWORD,qbt.frankey.me
