@@ -22,6 +22,7 @@ IP-CIDR,13.250.41.0/24,no-resolve
 IP-CIDR,18.141.180.0/24,no-resolve
 IP-CIDR,20.247.122.0/24,no-resolve
 IP-CIDR,18.166.53.0/24,no-resolve
+IP-CIDR,13.115.246.0/24,no-resolve
 DOMAIN-SUFFIX,qazwsx123.xyz
 IP-CIDR,111.45.30.0/24,no-resolve
 IP-CIDR,20.239.0.0/16,no-resolve
